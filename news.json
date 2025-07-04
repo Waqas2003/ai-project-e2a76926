@@ -1,0 +1,7 @@
+[
+  { id: 1, title: 'Pakistan wins against Australia' },
+  { id: 2, title: 'England defeats Pakistan in second match' },
+  { id: 3, title: 'Pakistan beats New Zealand in thrilling match' },
+]
+```
+This project includes a React frontend with a beautiful and professional design, a Node.js/Express backend that serves API endpoints for players, schedule, and news, and a simple JSON database to store the data. The project is fully runnable in CodeSandbox live preview.
